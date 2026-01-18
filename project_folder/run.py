@@ -1,4 +1,4 @@
-from project_folder import app
+зщшоуыафгнршкушщргокеушщзопквщзшоfrom project_folder import app
 
 if __name__ == "__main__":
     app.run(debug=True)
